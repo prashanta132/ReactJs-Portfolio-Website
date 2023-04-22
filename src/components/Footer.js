@@ -29,16 +29,31 @@ const Footer = () => {
 
 
       </div>
+      
       <div className="right">
         <h4>About the company</h4>
         <p>I am Prashanta Patel.CEO and Founder of Shree HariTec.I enjoy discussing new Projects and design challenges.</p>
         <div className="social">
-          <FaLinkedin size={30} style={{color:"#fff",marginRight: "1rem"}} />
-          <FaGithub size={30} style={{color:"#fff",marginRight: "1rem"}} />
+          <a href="https://www.linkedin.com/in/prashanta-patel-13a14b143" target="_blank">
+            <FaLinkedin size={30} style={{color:"#fff",marginRight: "1rem"}} />
 
-          <FaFacebook size={30} style={{color:"#fff",marginRight: "1rem"}} />
-          <FaTwitter size={30} style={{color:"#fff",marginRight: "1rem"}} />
-          <FaInstagram size={30} style={{color:"#fff",marginRight: "1rem"}} />
+          </a>
+          <a href="https://github.com/prashanta132?tab=repositories" target="_blank">
+            <FaGithub size={30} style={{color:"#fff",marginRight: "1rem"}} />
+          </a>
+          <a href="https://www.facebook.com/prashanta.kachhia" target="_blank">
+            <FaFacebook size={30} style={{color:"#fff",marginRight: "1rem"}} />
+
+          </a>
+          <a href="https://twitter.com/PrashantaPate19">
+            <FaTwitter size={30} style={{color:"#fff",marginRight: "1rem"}} />
+
+          </a>
+          <a href="https://www.instagram.com/prashanta758/">
+            <FaInstagram size={30} style={{color:"#fff",marginRight: "1rem"}} />
+
+          </a>
+          
         </div>
       </div>
     </div>

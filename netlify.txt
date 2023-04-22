@@ -1,0 +1,9 @@
+Admin URL: https://app.netlify.com/sites/prashantaportfolio
+URL:       https://prashantaportfolio.netlify.app
+Site ID:   3b033f75-1d84-4587-9607-88b11f19ff2c
+
+Website Draft URL: https://643fc7a26f1c060ded945786--prashantaportfolio.netlify.app
+
+Logs:              https://app.netlify.com/sites/prashantaportfolio/deploys/643fc84569e9c6168199c9f2
+Unique Deploy URL: https://643fc84569e9c6168199c9f2--prashantaportfolio.netlify.app
+Website URL:       https://prashantaportfolio.netlify.app
